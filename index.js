@@ -1,4 +1,4 @@
-module.exports = function witt(string) {
-    if (typeof string !== "string") throw new TypeError("Witt wants a string!");
-    return string.replace(/\s/g, "");
-  };
+module.exports = witt();
+function witt() {
+  alert("hello");
+};

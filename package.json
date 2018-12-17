@@ -1,0 +1,20 @@
+{
+  "name": "@witt/pack",
+  "version": "1.0.0",
+  "description": "THis is a package that removes space from your string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "htttps//www.github.com/samtob/witt"
+  },
+  "keywords": [
+      "witt",
+      "space-eraser",
+      "npm"],
+
+  "author": "Tobi Samuel",
+  "license": "MIT"
+}
